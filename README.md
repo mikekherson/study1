@@ -9,3 +9,5 @@ new
 ==XEON==
 
 featureA
+
+featureB
